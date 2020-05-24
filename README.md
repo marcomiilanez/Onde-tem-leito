@@ -8,7 +8,7 @@
 O desafio do projeto será ajudar pacientes com sintomas graves a encontrar um hospital mais próximo de sua residência com leitos disponíveis de acordo com o seu quadro de saúde.
 Resolveremos 
 
-![GitHub Logo](/images/logo.png)
+![ondetemleito_ front](/ondetemleito_ front.png)
 
 Use essa seção para falar sobre as motivações de seu time e, de forma breve, qual o produto que estão trabalhando. Se possível forneça **o que** seu produto é, por exemplo: Um app, uma aplicação web, gadget, dentre outros.
 

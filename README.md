@@ -6,7 +6,8 @@
 #### Apresentação 
 
 O desafio do projeto será ajudar pacientes com sintomas graves a encontrar um hospital mais próximo de sua residência com leitos disponíveis de acordo com o seu quadro de saúde.
-Resolveremos 
+
+![ondetemleito_front](/ondetemleito_front.png)
 
 ![ondetemleito_front_med](/ondetemleito_front_med.png)
 
@@ -14,7 +15,7 @@ Resolveremos
 
 ![otl_dor_m1](/otl_dor_m1.png)
 
-ondetemleito_tamanhodor_med.png
+![ondetemleito_tamanhodor](/ondetemleito_tamanhodor.png)
 
 ![ondetemleito_team_med](/ondetemleito_team_med.png)
 

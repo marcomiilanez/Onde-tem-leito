@@ -10,6 +10,10 @@ Resolveremos
 
 ![ondetemleito_front](/ondetemleito_front.png)
 
+ondetemleito_front2
+
+![ondetemleito_front_small](/ondetemleito_front_small.png)
+
 Use essa seção para falar sobre as motivações de seu time e, de forma breve, qual o produto que estão trabalhando. Se possível forneça **o que** seu produto é, por exemplo: Um app, uma aplicação web, gadget, dentre outros.
 
 #### O Produto

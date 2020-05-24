@@ -10,7 +10,11 @@ Resolveremos
 
 ![ondetemleito_front_med](/ondetemleito_front_med.png)
 
-Dream Team:
+#### Qual o Tamanho da dor
+
+![ondetemleito_tamanhodor_med](/ondetemleito_tamanhodor_med.png)
+
+ondetemleito_tamanhodor_med.png
 
 ![ondetemleito_team_med](/ondetemleito_team_med.png)
 
@@ -19,6 +23,8 @@ Use essa seção para falar sobre as motivações de seu time e, de forma breve,
 #### O Produto
 
 Entre em mais detalhes sobre seu produto, levantando pontos positivos, o porquê dele ser inovador e como ele ajuda o Brasil e o mundo no combate e minimização de danos causados pela COVID-19.
+
+![ondetemleito_team_med](/ondetemleito_team_med.png)
 
 #### Informações adicionais 
 

@@ -23,6 +23,8 @@ https://g1.globo.com/rj/rio-de-janeiro/noticia/2018/08/08/por-dia-14-pessoas-mor
 
 https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/23/hospital-de-referencia-para-covid-19-no-rj-tem-leitos-vagos-em-dia-com-recorde-de-mortes-absurdo-diz-funcionario.ghtml
 
+![ondetemleito_tamanhodor](/ondetemleito_tamanhodor.png)
+
 
 
 Use essa seção para falar sobre as motivações de seu time e, de forma breve, qual o produto que estão trabalhando. Se possível forneça **o que** seu produto é, por exemplo: Um app, uma aplicação web, gadget, dentre outros.

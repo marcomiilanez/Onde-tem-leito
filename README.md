@@ -33,7 +33,15 @@ Use essa seção para falar sobre as motivações de seu time e, de forma breve,
 
 Entre em mais detalhes sobre seu produto, levantando pontos positivos, o porquê dele ser inovador e como ele ajuda o Brasil e o mundo no combate e minimização de danos causados pela COVID-19.
 
-![ondetemleito_team_med](/ondetemleito_team_med.png)
+
+
+#### Quem são as pessoas por trás desse sistema
+
+Nosso Dream Team...
+
+![ondetemleito_team](/ondetemleito_team.png)
+
+
 
 #### Informações adicionais 
 

@@ -8,15 +8,11 @@
 O desafio do projeto será ajudar pacientes com sintomas graves a encontrar um hospital mais próximo de sua residência com leitos disponíveis de acordo com o seu quadro de saúde.
 Resolveremos 
 
-![ondetemleito_front](/ondetemleito_front.png)
-
-ondetemleito_front2
-
-![ondetemleito_front_small](/ondetemleito_front_small.png)
-
-ondetemleito_front3
-
 ![ondetemleito_front_med](/ondetemleito_front_med.png)
+
+Dream Team:
+
+![ondetemleito_team_med](/ondetemleito_team_med.png)
 
 Use essa seção para falar sobre as motivações de seu time e, de forma breve, qual o produto que estão trabalhando. Se possível forneça **o que** seu produto é, por exemplo: Um app, uma aplicação web, gadget, dentre outros.
 

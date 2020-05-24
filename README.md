@@ -10,9 +10,9 @@ Resolveremos
 
 ![ondetemleito_front_med](/ondetemleito_front_med.png)
 
-#### Qual o Tamanho da dor
+#### Qual o Tamanho da dor?
 
-![ondetemleito_tamanhodor_med](/ondetemleito_tamanhodor_med.png)
+![otl_dor_m1](/otl_dor_m1.png)
 
 ondetemleito_tamanhodor_med.png
 

@@ -13,7 +13,15 @@ O desafio do projeto será ajudar pacientes com sintomas graves a encontrar um h
 
 #### Qual o Tamanho da dor?
 
-![ondetemleito_tamanhodor](/ondetemleito_tamanhodor.png)
+Não é difícil compreender que este é um problema crítico para os tempos que estamos vivendo...basta olhar as notícias:
+
+https://g1.globo.com/ciencia-e-saude/noticia/2018/09/06/atendimento-precario-mata-mais-do-que-a-falta-de-acesso-a-medicos-diz-estudo.ghtml
+
+https://www.saude.gov.br/noticias/agencia-saude/46730-censo-hospitalar-comeca-a-ser-realizado-para-internacoes-de-coronavirus
+
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2018/08/08/por-dia-14-pessoas-morrem-por-falta-de-leitos-em-hospitais-do-rj-diz-defensoria.ghtml
+
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/23/hospital-de-referencia-para-covid-19-no-rj-tem-leitos-vagos-em-dia-com-recorde-de-mortes-absurdo-diz-funcionario.ghtml
 
 
 

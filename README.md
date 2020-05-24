@@ -13,7 +13,7 @@ O desafio do projeto será ajudar pacientes com sintomas graves a encontrar um h
 
 #### Qual o Tamanho da dor?
 
-Não é difícil compreender que este é um problema crítico para os tempos que estamos vivendo...basta olhar as notícias:
+Não é difícil compreender que este é um problema crítico para os tempos que estamos vivendo... basta olhar as notícias:
 
 https://g1.globo.com/ciencia-e-saude/noticia/2018/09/06/atendimento-precario-mata-mais-do-que-a-falta-de-acesso-a-medicos-diz-estudo.ghtml
 

@@ -26,9 +26,20 @@ https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/23/hospital-de-referencia
 ![otl2](/otl2.png)
 
 
+
 #### O Produto
 
-Para aliviarmos as dores apresentadas, propusemos um sistema web e mobile, onde um determinado paciente cadastrado preenche um formulário para fazer um monitoramento das suas condições de saúde e motar um perfil (prontuário) - aba minha saúde. Então a partir desse momento, no caso de já ser o caso, ou atrav;és do acompanhemto evolutivo, o médico faz o acaompanhamento do paciente e través da aba meu medico ele faz contato cvom o médico e a partir do momento que o m;edico identifica dentro das doencas definidas (que podem ser extendidas) o médico autoriza o paciente a procurar uma emergência, filtrando dentro das especialidades necessária - meu leito 
+Para aliviarmos as dores apresentadas, propusemos um sistema web e mobile, onde um determinado paciente cadastrado preenche um formulário para fazer um monitoramento das suas condições de saúde e montar um perfil (prontuário, aba minha saúde). Então a partir desse momento, no caso de já ser o caso, ou através do acompanhento evolutivo, o médico do paciente faz o acompanhamento do mesmo através da aba meu médico, sendo que, se identificár como sendo necessário, o paciente pode procurar uma emergência, filtrando dentro das especialidades necessária, através da aba meu leito (vide figuras a seguir):
+
+![otl3](/otl3.png)
+
+![otl4](/otl4.png)
+
+
+
+#### Informações adicionais 
+
+O sistema é composto por um módulo web, um módulo mobile (estes dois responsáveis pela parte de cadastro, registro das condições médicas e comunicação paciente-médico) e um módulo de BI, responsável por analisar e carregar os dados do georreferenciamento.
 
 
 
@@ -40,6 +51,4 @@ Nosso Dream Team...
 
 
 
-#### Informações adicionais 
 
-Forneça informações adicionais, adicione novos tópicos ou subtópicos. Use esse arquivo como um guia rápido para manter claro os objetivos de seu projeto para os demais integrantes. Manter o foco conjunto de forma coesa lhe ajudará a criar um produto mais *sólido*.

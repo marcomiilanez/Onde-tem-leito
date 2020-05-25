@@ -27,7 +27,7 @@ https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/23/hospital-de-referencia
 
 #### O Produto
 
-Para aliviarmos as dores apresentadas, propusemos um sistema web e mobile, onde um determinado paciente cadastrado preenche um formulário para fazer um monitoramento das suas condições de saúde e montar um perfil (prontuário, aba minha saúde). Então a partir desse momento, no caso de já ser o caso, ou através do acompanhento evolutivo, o médico do paciente faz o acompanhamento do mesmo através da aba meu médico, sendo que, se identificár como sendo necessário, o paciente pode procurar uma emergência, filtrando dentro das especialidades necessária, através da aba meu leito (vide figuras a seguir):
+Para aliviarmos as dores apresentadas, propusemos um sistema web e mobile, onde um determinado paciente cadastrado preenche um formulário para fazer um monitoramento das suas condições de saúde e montar um perfil (prontuário, aba minha saúde). Então a partir desse momento, no caso de já ser o caso, ou através do acompanhento evolutivo, o médico do paciente faz o acompanhamento do mesmo através da aba meu médico, sendo que, se identificár como sendo necessário, o paciente pode procurar uma emergência, filtrando dentro da especialidade necessária, através da aba meu leito (vide figuras a seguir):
 
 ![otl3](/otl3.png)
 
@@ -37,7 +37,7 @@ Para aliviarmos as dores apresentadas, propusemos um sistema web e mobile, onde 
 
 #### Informações adicionais 
 
-O sistema é composto por um módulo web, um módulo mobile (estes dois responsáveis pela parte de cadastro, registro das condições médicas e comunicação paciente-médico) e um módulo de BI, responsável por analisar e carregar os dados do georreferenciamento.
+O sistema é composto por um módulo web, um módulo mobile (estes dois, responsáveis pela parte de cadastro, registro das condições médicas e comunicação paciente-médico através de chat) e um módulo de BI, responsável por analisar e carregar os dados do georreferenciamento.
 
 
 

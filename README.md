@@ -23,7 +23,7 @@ https://g1.globo.com/rj/rio-de-janeiro/noticia/2018/08/08/por-dia-14-pessoas-mor
 
 https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/23/hospital-de-referencia-para-covid-19-no-rj-tem-leitos-vagos-em-dia-com-recorde-de-mortes-absurdo-diz-funcionario.ghtml
 
-![ot2](/ot2.png)
+![otl2](/otl2.png)
 
 
 #### O Produto

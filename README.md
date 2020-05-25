@@ -7,7 +7,7 @@
 
 O desafio do projeto será ajudar pacientes com sintomas graves a encontrar um hospital mais próximo de sua residência com leitos disponíveis de acordo com o seu quadro de saúde.
 
-![ondetemleito_front](/ondetemleito_front.png)
+![otl1](/otl1.png)
 
 
 
@@ -23,15 +23,12 @@ https://g1.globo.com/rj/rio-de-janeiro/noticia/2018/08/08/por-dia-14-pessoas-mor
 
 https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/23/hospital-de-referencia-para-covid-19-no-rj-tem-leitos-vagos-em-dia-com-recorde-de-mortes-absurdo-diz-funcionario.ghtml
 
-![ondetemleito_tamanhodor](/ondetemleito_tamanhodor.png)
+![ot2](/ot2.png)
 
-
-
-Use essa seção para falar sobre as motivações de seu time e, de forma breve, qual o produto que estão trabalhando. Se possível forneça **o que** seu produto é, por exemplo: Um app, uma aplicação web, gadget, dentre outros.
 
 #### O Produto
 
-Entre em mais detalhes sobre seu produto, levantando pontos positivos, o porquê dele ser inovador e como ele ajuda o Brasil e o mundo no combate e minimização de danos causados pela COVID-19.
+Para aliviarmos as dores apresentadas, propusemos um sistema web e mobile, onde um determinado paciente cadastrado preenche um formulário para fazer um monitoramento das suas condições de saúde e motar um perfil (prontuário) - aba minha saúde. Então a partir desse momento, no caso de já ser o caso, ou atrav;és do acompanhemto evolutivo, o médico faz o acaompanhamento do paciente e través da aba meu medico ele faz contato cvom o médico e a partir do momento que o m;edico identifica dentro das doencas definidas (que podem ser extendidas) o médico autoriza o paciente a procurar uma emergência, filtrando dentro das especialidades necessária - meu leito 
 
 
 
@@ -39,7 +36,7 @@ Entre em mais detalhes sobre seu produto, levantando pontos positivos, o porquê
 
 Nosso Dream Team...
 
-![ondetemleito_team](/ondetemleito_team.png)
+![otl5](/otl5.png)
 
 
 
